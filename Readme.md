@@ -4,4 +4,4 @@ Click `ProjectDemo.html` to open it !
 
 
 
-![MacDown Screenshot](img/first.PNG)
+![MacDown Screenshot](img/first.png)
